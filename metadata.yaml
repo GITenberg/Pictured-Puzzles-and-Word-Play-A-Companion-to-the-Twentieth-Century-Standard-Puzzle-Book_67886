@@ -1,0 +1,33 @@
+_repo: Pictured-Puzzles-and-Word-Play-A-Companion-to-the-Twentieth-Century-Standard-Puzzle-Book_67886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pearson, A. Cyril (Arthur Cyril)
+    alias: Pearson, Arthur Cyril
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '52651'
+    url: http://www.gutenberg.org/2009/agents/52651
+description: ''
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67886'
+language: en
+pgterms:marc905: 20180422160253pearson
+pgterms:marc906: '1908'
+pgterms:marc907: United States
+production_note: MFR, Branden Aldridge, Harry Lamé and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :GEORGE ROUTLEDGE f:J SONS, LTD,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charades'
+- !lcsh 'Picture puzzles'
+- !lcc 'GV'
+- !lcsh 'Puzzles'
+- GITenberg
+title: "Pictured Puzzles and Word Play\r\nA Companion to the Twentieth Century Standard\
+  \ Puzzle Book"
+url: http://www.gutenberg.org/ebooks/67886
